@@ -3,7 +3,7 @@
 * Python 3.6
 * CUDA
 * cudnn
-* Tensorflow >= 1.0.1
+* Tensorflow >= 2.x
 * Pillow(PIL)
 * numpy >= 1.12.1
 * scipy >= 0.18.1
